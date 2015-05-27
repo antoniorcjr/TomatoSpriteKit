@@ -6,6 +6,9 @@
 //  Copyright (c) 2015 BEPiD. All rights reserved.
 //
 
+#import <SpriteKit/SpriteKit.h>
+#import "StartScene.h"
+
 @interface ViewController : UIViewController
 
 
